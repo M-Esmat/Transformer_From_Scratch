@@ -1,5 +1,5 @@
 # Transformer_From_Scratch
-# Transformer from Scratch: English–German Translator 🌍🔤
+### Transformer from Scratch: English–German Translator 🌍🔤
 
 ## Overview
 This project is a **from-scratch implementation** of a Transformer model applied to an English–German machine translation task. Designed using Object-Oriented Programming (OOP) principles, the project showcases my skills in building deep learning architectures from fundamental components. The Transformer model, built entirely from scratch, includes the core building blocks such as Multi-Head Self-Attention, Feed-Forward Networks, Layer Normalization, and Residual Connections. An interactive user interface built with Streamlit allows users to easily translate sentences and view the translation along with confidence scores.
