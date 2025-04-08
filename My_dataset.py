@@ -35,7 +35,7 @@ import random
 
 random.seed(42)
 # Path to the dataset1 file
-input_file = r"D:\projects\z datasets\english-to-german\deu.txt"
+input_file = r"english-to-german\deu.txt"
 
 # List to store sentence pairs
 sentence_pairs2 = []
