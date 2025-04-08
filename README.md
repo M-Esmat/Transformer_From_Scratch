@@ -55,7 +55,7 @@ This project is a **from-scratch implementation** of a Transformer model applied
 
 
 ## Potential Improvements / Future Work
-- Experiment with more advanced Transformer variants (e.g., Transformer-XL, BERT-based models).
+- Experiment with more advanced Transformer variants (e.g. BERT-based models).
 - Incorporate attention visualization in the Streamlit app.
 - Enhance preprocessing to handle more complex language structures.
 - Expand the dataset for more robust evaluation and generalization.
