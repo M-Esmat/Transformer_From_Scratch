@@ -10,7 +10,7 @@ def load_embeddings(lang):
         'ar': 'cc.ar.300.vec'
     }
     print(f"I will be importing the {lang} embeddings now / -> from embeddings.py file")
-    embedding_path = os.path.join('D:\\projects\\Pre-trained embeddings', path[lang])
+    embedding_path = os.path.join('Pre-trained embeddings', path[lang])
     # Since these are text files, set binary=False
     return KeyedVectors.load_word2vec_format(embedding_path, binary=False)
 
