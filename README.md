@@ -41,7 +41,7 @@ This project is a **from-scratch implementation** of a Transformer model applied
   - **Optimizer:** Adam optimizer with gradient clipping.
   - **Checkpointing:** Periodically saves model state along with vocabularies and configuration.
 - **Data:**  
-  - Utilizes an English–German parallel corpus. Kaggle datasets like [English To German]([https://tatoeba.org/](https://www.kaggle.com/datasets/kaushal2896/english-to-german))
+  - Utilizes an English–German parallel corpus. Kaggle datasets like [English To German]([https://kaggle.com/](https://www.kaggle.com/datasets/kaushal2896/english-to-german)]
   
 ## Installation
 
