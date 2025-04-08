@@ -52,8 +52,7 @@ This project is a **from-scratch implementation** of a Transformer model applied
 
 ## Results
 - **Training Loss:** Example loss values (e.g., *Epoch 600 | Loss: 0.0079*) indicate strong convergence.
-- **Translation Quality:** Qualitative examples of translations showcase correct mapping from English to German.
-- **Evaluation Metrics:** *(Optional)* BLEU score and other metrics can be added based on your experimental results.
+
 
 ## Potential Improvements / Future Work
 - Experiment with more advanced Transformer variants (e.g., Transformer-XL, BERT-based models).
